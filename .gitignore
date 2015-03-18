@@ -1,0 +1,18 @@
+# eclipse
+.project
+.settings
+salesforce.schema
+Referenced Packages
+
+# mavensmate
+config
+*.sublime-project
+*.sublime-settings
+*.sublime-workspace
+
+# foreman
+.env
+
+# node
+node_modules
+
